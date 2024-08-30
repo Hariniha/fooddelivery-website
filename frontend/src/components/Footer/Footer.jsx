@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="footer-content">
             <div className="footer-content-left">
                 <img src={assets.logo} alt=''/>
-                <p>dummyGenerate Lorem Ipsum placeholder text for use in your graphic, print and web layouts, and discover plugins for your favorite writing, design and blogging tools. Explore the origins, history and meaning of the famous passage, and learn how Lorem Ipsum went from text jhwdjhiferhuifrygjewhbcjsncuiegfyyer</p>
+                <p> Welcome to Tomato, where we blend quality ingredients with exceptional delivery service to bring you the best dining experience right to your doorstep. At Tomato, we believe that great food deserves great service!!!!</p>
                 <div className="footer-social-icons">
                     <img src={assets.facebook_icon} alt="" />
                     <img src={assets.twitter_icon} alt="" />
